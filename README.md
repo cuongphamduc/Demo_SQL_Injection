@@ -153,7 +153,7 @@ cursor.execute(query)
 ## 🏗️ Cấu trúc dự án
 
 ```
-demoAI1/
+Demo_SQL_Injection/
 ├── app.py              # Ứng dụng FastAPI chính
 ├── students.db         # Cơ sở dữ liệu SQLite
 ├── environment.yml     # Conda environment file
